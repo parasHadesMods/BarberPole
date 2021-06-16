@@ -1,0 +1,2 @@
+ModUtil.RegisterMod("BarberPole")
+
